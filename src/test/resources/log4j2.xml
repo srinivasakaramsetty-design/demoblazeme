@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN">
+
+    <Properties>
+        <Property name="LOG_PATTERN">
+            %d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %c{1} - %msg%n
+        </Property>
+
+        <Property name="LOG_DIR">Logs</Property>
+    </Properties>
+
+    <Appenders>
+
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+        </Console>
+
+        <!-- File Appender -->
+        <File name="FileLogger"
+              fileName="${LOG_DIR}/Automation.log"
+              append="true">
+
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+
+        </File>
+
+    </Appenders>
+
+    <Loggers>
+
+        <Root level="info">
+
+            <AppenderRef ref="Console"/>
+
+            <AppenderRef ref="FileLogger"/>
+
+        </Root>
+
+    </Loggers>
+
+</Configuration>
