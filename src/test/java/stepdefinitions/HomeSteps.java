@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 
 import hooks.Hooks;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import pages.HomePage;
 
@@ -32,10 +33,21 @@ public class HomeSteps {
     }
 
     @Then("User should see product list displayed")
-    public void user_should_see_product_list_displayed() {
+    public void user_should_see_product_list_displayed() 
+    {
 
         init();
 
         Assert.assertTrue(home.getFirstProductName() != null, "Product list is not displayed");
+    }
+    
+    @And("User clicks on {string} product")
+    public void user_clicks_on_product(String productName) {
+
+        init();
+
+        home.clickProduct(productName);
+
+        log.info("Clicked on Product: {}", productName);
     }
 }

@@ -1,9 +1,7 @@
 package pages;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -11,44 +9,36 @@ import utilities.ActionUtils;
 
 public class LoginPage {
 
+    private WebDriver driver;
     private ActionUtils utils;
     private WebDriverWait wait;
 
+    // Locators
+    private By loginMenu = By.id("login2");
+    private By username = By.id("loginusername");
+    private By password = By.id("loginpassword");
+    private By loginButton = By.xpath("//button[text()='Log in']");
+ 
+
     public LoginPage(WebDriver driver, WebDriverWait wait) {
-        PageFactory.initElements(driver, this);
+    	this.driver = driver;   // <-- Don't forget this
         this.wait = wait;
-        utils = new ActionUtils(driver, wait);
+  
+        this.utils = new ActionUtils(driver, wait);
     }
-
-    @FindBy(id = "login2")
-    private WebElement loginMenu;
-
-    @FindBy(id = "loginusername")
-    private WebElement username;
-
-    @FindBy(id = "loginpassword")
-    private WebElement password;
-
-    @FindBy(xpath = "//button[text()='Log in']")
-    private WebElement loginButton;
-
-    @FindBy(id = "logout2")
-    private WebElement logoutLink;
 
     public void login(String user, String pass) {
 
-        utils.click(loginMenu);
+        utils.click(driver.findElement(loginMenu));
 
-        utils.type(username, user);
-        utils.type(password, pass);
+        utils.type(driver.findElement(username), user);
 
-        utils.click(loginButton);
+        utils.type(driver.findElement(password), pass);
 
-        // IMPORTANT FIX: wait until logout appears
-        wait.until(ExpectedConditions.visibilityOf(logoutLink));
+        utils.click(driver.findElement(loginButton));
+
+        
     }
 
-    public boolean isLogoutDisplayed() {
-        return logoutLink.isDisplayed();
-    }
+    
 }
