@@ -3814,3 +3814,608 @@ Session ID: 0a27af19a1c218d15db5362f8aa7a58a
 2026-07-06 19:06:04 [main] INFO  Hooks - Test Execution Completed
 2026-07-06 19:06:04 [main] INFO  TestListener - Test Passed : runScenario
 2026-07-06 19:06:04 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:06:54 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-88535295\testng-customsuite.xml
+
+2026-07-06 22:06:54 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 22:06:54 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-07-06 22:06:55 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:06:55 [main] INFO  Hooks - ==================================
+2026-07-06 22:06:55 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:06:55 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:07:17 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:07:22 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:07:22 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:07:22 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 22:07:23 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:07:23 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:07:23 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:07:23 [main] INFO  Hooks - ==================================
+2026-07-06 22:07:23 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:07:23 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:07:26 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:07:31 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:07:31 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:07:32 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:07:32 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:07:33 [main] INFO  ProductDetailsSteps - Product Details page displayed successfully.
+2026-07-06 22:07:33 [main] INFO  ProductDetailsSteps - Product Name: Samsung galaxy s6
+2026-07-06 22:07:33 [main] INFO  ProductDetailsSteps - Product Price: $360 *includes tax
+2026-07-06 22:07:34 [main] INFO  ProductDetailsSteps - Product Description: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+2026-07-06 22:07:34 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:07:34 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:07:34 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:07:34 [main] INFO  Hooks - ==================================
+2026-07-06 22:07:34 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:07:34 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:07:37 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:07:41 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:07:41 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:07:42 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:07:42 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:07:44 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:07:44 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:07:45 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:07:46 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:07:46 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:07:46 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:07:46 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:07:46 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:07:46 [main] INFO  Hooks - ==================================
+2026-07-06 22:07:46 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:07:46 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:07:50 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:07:54 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:07:54 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:07:55 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:07:55 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:07:57 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:07:57 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:07:58 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:07:59 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:07:59 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:07:59 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Place Order']
+2026-07-06 22:07:59 [main] INFO  PlaceOrderSteps - Clicked Place Order button
+2026-07-06 22:08:01 [main] INFO  PlaceOrderSteps - Entered order details
+2026-07-06 22:08:01 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Purchase']
+2026-07-06 22:08:01 [main] INFO  PlaceOrderSteps - Clicked Purchase button
+2026-07-06 22:08:17 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 22:08:17 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:08:17 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 22:08:18 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 22:08:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3a7469ca: 119 ms
+2026-07-06 22:08:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6b7c4734: 34 ms
+2026-07-06 22:08:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5604b85: 24 ms
+2026-07-06 22:08:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1b19712f: 15 ms
+2026-07-06 22:08:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e9e0c6: 12 ms
+2026-07-06 22:08:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1a819901: 1 ms
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 38 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:10:41 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse--523125156\testng-customsuite.xml
+
+2026-07-06 22:10:41 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 22:10:42 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-07-06 22:10:42 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:10:43 [main] INFO  Hooks - ==================================
+2026-07-06 22:10:43 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:10:43 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:10:48 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:10:53 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:10:53 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:10:53 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 22:10:53 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:10:53 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:10:54 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:10:54 [main] INFO  Hooks - ==================================
+2026-07-06 22:10:54 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:10:54 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:10:56 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:11:00 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:11:00 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:11:02 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:11:02 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:11:03 [main] INFO  ProductDetailsSteps - Product Details page displayed successfully.
+2026-07-06 22:11:03 [main] INFO  ProductDetailsSteps - Product Name: Samsung galaxy s6
+2026-07-06 22:11:03 [main] INFO  ProductDetailsSteps - Product Price: $360 *includes tax
+2026-07-06 22:11:03 [main] INFO  ProductDetailsSteps - Product Description: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+2026-07-06 22:11:04 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:11:04 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:11:04 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:11:04 [main] INFO  Hooks - ==================================
+2026-07-06 22:11:04 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:11:04 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:11:07 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:11:11 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:11:11 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:11:13 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:11:13 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:11:14 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:11:14 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:11:16 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:11:17 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:11:17 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:11:17 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:11:17 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:11:17 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:11:17 [main] INFO  Hooks - ==================================
+2026-07-06 22:11:17 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:11:17 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:11:20 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:11:24 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:11:24 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:11:25 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:11:25 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:11:26 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:11:26 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:11:27 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:11:29 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:11:29 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:11:29 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Place Order']
+2026-07-06 22:11:29 [main] INFO  PlaceOrderSteps - Clicked Place Order button
+2026-07-06 22:11:31 [main] INFO  PlaceOrderSteps - Entered order details
+2026-07-06 22:11:31 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Purchase']
+2026-07-06 22:11:31 [main] INFO  PlaceOrderSteps - Clicked Purchase button
+2026-07-06 22:11:32 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='OK']
+2026-07-06 22:11:47 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 22:11:48 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:11:48 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 22:11:48 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 22:11:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2248d140: 100 ms
+2026-07-06 22:11:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2ac05a33: 24 ms
+2026-07-06 22:11:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ad112de: 19 ms
+2026-07-06 22:11:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6cc90398: 13 ms
+2026-07-06 22:11:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1450ffa3: 15 ms
+2026-07-06 22:11:48 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e756867: 0 ms
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 22:14:50 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-2077572738\testng-customsuite.xml
+
+2026-07-06 22:14:50 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 22:14:50 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2026-07-06 22:14:51 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:14:51 [main] INFO  Hooks - ==================================
+2026-07-06 22:14:51 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:14:51 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:14:55 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:15:01 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:15:01 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:15:01 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 22:15:02 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:15:02 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:15:02 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:15:02 [main] INFO  Hooks - ==================================
+2026-07-06 22:15:02 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:15:02 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:15:05 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:15:08 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:15:08 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:15:09 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:15:09 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:15:10 [main] INFO  ProductDetailsSteps - Product Details page displayed successfully.
+2026-07-06 22:15:10 [main] INFO  ProductDetailsSteps - Product Name: Samsung galaxy s6
+2026-07-06 22:15:10 [main] INFO  ProductDetailsSteps - Product Price: $360 *includes tax
+2026-07-06 22:15:10 [main] INFO  ProductDetailsSteps - Product Description: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+2026-07-06 22:15:11 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:15:11 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:15:11 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:15:11 [main] INFO  Hooks - ==================================
+2026-07-06 22:15:11 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:15:11 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:15:13 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:15:17 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:15:17 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:15:18 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:15:18 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:15:20 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:15:20 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:15:21 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:15:22 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:15:22 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:15:23 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:15:23 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:15:23 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:15:23 [main] INFO  Hooks - ==================================
+2026-07-06 22:15:23 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:15:23 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:15:26 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:15:29 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:15:29 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:15:30 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:15:30 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:15:31 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:15:31 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:15:32 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:15:33 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:15:33 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:15:33 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Place Order']
+2026-07-06 22:15:33 [main] INFO  PlaceOrderSteps - Clicked Place Order button
+2026-07-06 22:15:35 [main] INFO  PlaceOrderSteps - Entered order details
+2026-07-06 22:15:35 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Purchase']
+2026-07-06 22:15:35 [main] INFO  PlaceOrderSteps - Clicked Purchase button
+2026-07-06 22:15:35 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='OK']
+2026-07-06 22:15:35 [main] INFO  PlaceOrderSteps - Accepted confirmation alert
+2026-07-06 22:15:50 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 22:15:51 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:15:51 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 22:15:51 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 22:15:51 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2444c3df: 99 ms
+2026-07-06 22:15:51 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5e1d1524: 45 ms
+2026-07-06 22:15:51 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3f64d943: 34 ms
+2026-07-06 22:15:51 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4fd3b20a: 10 ms
+2026-07-06 22:15:51 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6eaf030c: 9 ms
+2026-07-06 22:15:51 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@b2da3a5: 0 ms
+2026-07-06 22:33:26 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\java\Demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-07-06 22:33:26 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:33:26 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:33:26 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:33:27 [main] INFO  Utils - [TestNG] Running:
+  F:\java\Demo\testng.xml
+
+2026-07-06 22:33:27 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 22:33:28 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:33:28 [main] INFO  Hooks - ==================================
+2026-07-06 22:33:28 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:33:28 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:33:32 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:33:37 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:33:37 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:33:37 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 22:33:38 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:33:38 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:33:38 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:33:38 [main] INFO  Hooks - ==================================
+2026-07-06 22:33:38 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:33:38 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:33:40 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:33:44 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:33:44 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:33:45 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:33:45 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:33:46 [main] INFO  ProductDetailsSteps - Product Details page displayed successfully.
+2026-07-06 22:33:46 [main] INFO  ProductDetailsSteps - Product Name: Samsung galaxy s6
+2026-07-06 22:33:47 [main] INFO  ProductDetailsSteps - Product Price: $360 *includes tax
+2026-07-06 22:33:47 [main] INFO  ProductDetailsSteps - Product Description: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+2026-07-06 22:33:47 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:33:47 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:33:47 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:33:47 [main] INFO  Hooks - ==================================
+2026-07-06 22:33:47 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:33:47 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:33:51 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:33:54 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:33:54 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:33:55 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:33:55 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:33:56 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:33:56 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:33:57 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:33:58 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:34:03 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:34:03 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:34:03 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:34:03 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:34:03 [main] INFO  Hooks - ==================================
+2026-07-06 22:34:03 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:34:03 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:34:06 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:34:10 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:34:10 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:34:11 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:34:11 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:34:12 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:34:12 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:34:14 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:34:15 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:34:20 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:34:20 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Place Order']
+2026-07-06 22:34:25 [main] INFO  PlaceOrderSteps - Clicked Place Order button
+2026-07-06 22:34:26 [main] INFO  PlaceOrderSteps - Entered order details
+2026-07-06 22:34:26 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Purchase']
+2026-07-06 22:34:26 [main] INFO  PlaceOrderSteps - Clicked Purchase button
+2026-07-06 22:34:27 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='OK']
+2026-07-06 22:34:27 [main] INFO  PlaceOrderSteps - Order confirmation message verified successfully
+2026-07-06 22:34:27 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:34:27 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:34:28 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 22:36:24 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\java\Demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-07-06 22:36:24 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:36:24 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:36:24 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:36:25 [main] INFO  Utils - [TestNG] Running:
+  F:\java\Demo\testng.xml
+
+2026-07-06 22:36:25 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 22:36:26 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:36:26 [main] INFO  Hooks - ==================================
+2026-07-06 22:36:26 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:36:26 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:36:29 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:36:34 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:36:34 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:36:34 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 22:36:35 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:36:35 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:36:35 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:36:35 [main] INFO  Hooks - ==================================
+2026-07-06 22:36:35 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:36:35 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:36:37 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:36:41 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:36:41 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:36:42 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:36:42 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:36:44 [main] INFO  ProductDetailsSteps - Product Details page displayed successfully.
+2026-07-06 22:36:44 [main] INFO  ProductDetailsSteps - Product Name: Samsung galaxy s6
+2026-07-06 22:36:44 [main] INFO  ProductDetailsSteps - Product Price: $360 *includes tax
+2026-07-06 22:36:44 [main] INFO  ProductDetailsSteps - Product Description: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+2026-07-06 22:36:44 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:36:44 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:36:44 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:36:44 [main] INFO  Hooks - ==================================
+2026-07-06 22:36:44 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:36:44 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:36:48 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:36:51 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:36:51 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:36:52 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:36:52 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:36:53 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:36:53 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:36:54 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:36:55 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:37:00 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:37:00 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:37:00 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:37:00 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:37:00 [main] INFO  Hooks - ==================================
+2026-07-06 22:37:00 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:37:00 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:37:03 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:37:06 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:37:06 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:37:07 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:37:07 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:37:09 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:37:09 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:37:10 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:37:11 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:37:16 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:37:16 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Place Order']
+2026-07-06 22:37:21 [main] INFO  PlaceOrderSteps - Clicked Place Order button
+2026-07-06 22:37:22 [main] INFO  PlaceOrderSteps - Entered order details
+2026-07-06 22:37:22 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Purchase']
+2026-07-06 22:37:22 [main] INFO  PlaceOrderSteps - Clicked Purchase button
+2026-07-06 22:37:38 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 22:37:39 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:37:39 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 22:37:39 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 22:40:45 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\java\Demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-07-06 22:40:46 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:40:46 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:40:46 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:40:46 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 22:40:49 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:40:49 [main] INFO  Hooks - ==================================
+2026-07-06 22:40:49 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:40:49 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:40:56 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:41:01 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:41:01 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:41:01 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 22:41:02 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:41:02 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:41:02 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:41:02 [main] INFO  Hooks - ==================================
+2026-07-06 22:41:02 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:41:02 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:41:05 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:41:10 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:41:10 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:41:11 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:41:11 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:41:12 [main] INFO  ProductDetailsSteps - Product Details page displayed successfully.
+2026-07-06 22:41:12 [main] INFO  ProductDetailsSteps - Product Name: Samsung galaxy s6
+2026-07-06 22:41:12 [main] INFO  ProductDetailsSteps - Product Price: $360 *includes tax
+2026-07-06 22:41:12 [main] INFO  ProductDetailsSteps - Product Description: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+2026-07-06 22:41:12 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:41:12 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:41:12 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:41:12 [main] INFO  Hooks - ==================================
+2026-07-06 22:41:12 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:41:12 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:41:15 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:41:19 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:41:19 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:41:20 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:41:20 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:41:21 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:41:21 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:41:22 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:41:23 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:41:28 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:41:28 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:41:28 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:41:28 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:41:28 [main] INFO  Hooks - ==================================
+2026-07-06 22:41:28 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:41:28 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:41:31 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:41:34 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:41:34 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:41:35 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:41:35 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:41:36 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:41:36 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:41:37 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:41:39 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:41:44 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:41:44 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Place Order']
+2026-07-06 22:41:49 [main] INFO  PlaceOrderSteps - Clicked Place Order button
+2026-07-06 22:41:50 [main] INFO  PlaceOrderSteps - Entered order details
+2026-07-06 22:41:51 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Purchase']
+2026-07-06 22:41:51 [main] INFO  PlaceOrderSteps - Clicked Purchase button
+2026-07-06 22:42:06 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 22:42:07 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:42:07 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 22:42:07 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 22:44:50 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\java\Demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-07-06 22:44:51 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:44:51 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:44:51 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-07-06 22:44:51 [main] INFO  Utils - [TestNG] Running:
+  F:\java\Demo\testng.xml
+
+2026-07-06 22:44:51 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 22:44:52 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:44:52 [main] INFO  Hooks - ==================================
+2026-07-06 22:44:52 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:44:52 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:44:57 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:45:03 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:45:03 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:45:03 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 22:45:04 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:45:04 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:45:04 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:45:04 [main] INFO  Hooks - ==================================
+2026-07-06 22:45:04 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:45:04 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:45:05 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:45:10 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:45:10 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:45:11 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:45:11 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:45:12 [main] INFO  ProductDetailsSteps - Product Details page displayed successfully.
+2026-07-06 22:45:12 [main] INFO  ProductDetailsSteps - Product Name: Samsung galaxy s6
+2026-07-06 22:45:12 [main] INFO  ProductDetailsSteps - Product Price: $360 *includes tax
+2026-07-06 22:45:12 [main] INFO  ProductDetailsSteps - Product Description: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+2026-07-06 22:45:13 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:45:13 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:45:13 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:45:13 [main] INFO  Hooks - ==================================
+2026-07-06 22:45:13 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:45:13 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:45:15 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:45:19 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:45:19 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:45:19 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:45:19 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:45:21 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:45:21 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:45:22 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:45:23 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:45:28 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:45:29 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:45:29 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:45:29 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 22:45:29 [main] INFO  Hooks - ==================================
+2026-07-06 22:45:29 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 22:45:29 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 22:45:32 [main] INFO  LoginSteps - Launching App
+2026-07-06 22:45:35 [main] INFO  LoginSteps - Login executed
+2026-07-06 22:45:35 [main] INFO  LoginSteps - Verifying login
+2026-07-06 22:45:36 [main] INFO  ActionUtils - Clicked on element: By.xpath: //a[text()='Samsung galaxy s6']
+2026-07-06 22:45:36 [main] INFO  HomeSteps - Clicked on Product: Samsung galaxy s6
+2026-07-06 22:45:37 [main] INFO  ActionUtils - Clicked on element: By.linkText: Add to cart
+2026-07-06 22:45:37 [main] INFO  CartSteps - Clicked on Add to Cart button.
+2026-07-06 22:45:38 [main] INFO  CartSteps - Alert accepted successfully.
+2026-07-06 22:45:39 [main] INFO  ActionUtils - Clicked on element: By.id: cartur
+2026-07-06 22:45:44 [main] INFO  CartSteps - Product added to cart successfully.
+2026-07-06 22:45:44 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Place Order']
+2026-07-06 22:45:49 [main] INFO  PlaceOrderSteps - Clicked Place Order button
+2026-07-06 22:45:51 [main] INFO  PlaceOrderSteps - Entered order details
+2026-07-06 22:45:51 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='Purchase']
+2026-07-06 22:45:51 [main] INFO  PlaceOrderSteps - Clicked Purchase button
+2026-07-06 22:45:51 [main] INFO  ActionUtils - Clicked on element: By.xpath: //button[text()='OK']
+2026-07-06 22:45:51 [main] INFO  PlaceOrderSteps - Order confirmation message verified successfully
+2026-07-06 22:45:52 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 22:45:52 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 22:45:52 [main] INFO  TestListener - ===== Test Execution Finished =====

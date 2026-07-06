@@ -1,7 +1,9 @@
 package hooks;
 
 import java.time.Duration;
-
+import io.qameta.allure.Allure;
+import java.io.File;
+import java.io.FileInputStream;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -51,7 +53,17 @@ public class Hooks {
             log.error("Scenario Failed: Taking Screenshot");
 
             if (driver != null) {
-                ScreenshotUtil.captureScreenshot(driver, scenario.getName());
+
+                String screenshotPath = ScreenshotUtil.captureScreenshot(driver, scenario.getName());
+
+                try {
+                    Allure.addAttachment(
+                            "Failure Screenshot",
+                            new FileInputStream(new File(screenshotPath))
+                    );
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
         }
 

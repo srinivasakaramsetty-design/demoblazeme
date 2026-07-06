@@ -30,6 +30,7 @@ Scenario: Verify user can add product to cart successfully
   And User clicks on Place Order button
   And User enters order details "Srinivas", "India", "Hyderabad", "1234567890123456", "12", "2026"
   And User clicks on Purchase button
-  And User accepts confirmation alert
   Then User should see order confirmation message
+  And User accepts confirmation alert
+  	
   

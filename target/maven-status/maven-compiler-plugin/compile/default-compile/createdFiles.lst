@@ -1,0 +1,12 @@
+pages\ContactPage.class
+pages\ProductDetailsPage.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
+utilities\ScreenshotUtil.class
+utilities\ActionUtils.class
+utilities\ExcelUtil.class
+utilities\ConfigReader.class
+pages\PlaceOrderPage.class
+hooks\Hooks.class

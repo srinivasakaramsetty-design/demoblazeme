@@ -44,10 +44,11 @@ public class CartSteps
 	}
 
 	@Then("User should see the product added to cart successfully")
-	public void user_should_see_the_product_added_to_cart_successfully() 
+	public void user_should_see_the_product_added_to_cart_successfully() throws InterruptedException 
 	{
 		 init();   
 		cp.clickCart();
+		Thread.sleep(5000);
 		log.info("Product added to cart successfully.");
 	}
 }

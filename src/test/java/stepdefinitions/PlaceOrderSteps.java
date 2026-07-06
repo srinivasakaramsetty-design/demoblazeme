@@ -4,11 +4,10 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import hooks.Hooks;
-import pages.PlaceOrderPage;
-
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pages.PlaceOrderPage;
 
 public class PlaceOrderSteps {
 
@@ -16,22 +15,31 @@ public class PlaceOrderSteps {
 
     private PlaceOrderPage pp;
 
-    private void init() {
-        if (pp == null) {
+    private void init() 
+    {
+        if (pp == null)
+        {
             pp = new PlaceOrderPage(Hooks.driver, Hooks.wait);
         }
     }
 
     @When("User clicks on Place Order button")
-    public void user_clicks_on_place_order_button() {
+    public void user_clicks_on_place_order_button() throws InterruptedException 
+    {
         init();
         pp.clickPlaceOrder();
+        Thread.sleep(5000);
         log.info("Clicked Place Order button");
     }
 
     @And("User enters order details {string}, {string}, {string}, {string}, {string}, {string}")
-    public void user_enters_order_details(String name, String country, String city,
-                                         String card, String month, String year) {
+    public void user_enters_order_details(String name,
+                                          String country,
+                                          String city,
+                                          String card,
+                                          String month,
+                                          String year) {
+
         init();
         pp.fillOrderForm(name, country, city, card, month, year);
         log.info("Entered order details");
@@ -44,19 +52,19 @@ public class PlaceOrderSteps {
         log.info("Clicked Purchase button");
     }
 
-    @Then("User accepts confirmation alert")
-    public void user_accepts_confirmation_alert() {
-        init();
-        pp.clickOkButton();
-        log.info("Accepted confirmation alert");
-    }
-    
+   
+
     @Then("User should see order confirmation message")
-    public void user_should_see_order_confirmation_message() {
+    public void user_clicks_ok_button()
+    {
         init();
         pp.verifyConfirmationMessage();
     }
     
-  
-    
+    @Then("User accepts confirmation alert")
+    public void user_should_see_order_confirmation_message() {
+        init();
+        pp.clickOkButton();
+        log.info("Order confirmation message verified successfully");
+    }
 }

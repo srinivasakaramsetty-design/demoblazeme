@@ -24,6 +24,7 @@ public class PlaceOrderPage
 	private By closeBtn = By.xpath("//button[text()='Close']");
 	private By confirmationMsg = By.xpath("//h2[contains(text(),'Thank you')]");
 	private By okButton = By.xpath("//button[text()='OK']");
+	
 
 
 
@@ -65,7 +66,14 @@ public class PlaceOrderPage
 	public void clickOkButton() 
 	{
 	    utils.click(okButton);
+	    
 	}
+	
+	public void closeConfirmationDialog() 
+	{
+	    utils.click(closeBtn);
+	}
+	
 
 	public void verifyConfirmationMessage() {
 	    String message = utils.getText(confirmationMsg);

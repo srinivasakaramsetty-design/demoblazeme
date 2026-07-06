@@ -10,12 +10,14 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
+import io.qameta.allure.Attachment;
+
 public class ScreenshotUtil {
 
     public static String captureScreenshot(WebDriver driver, String testName) {
 
         if (driver == null) {
-            System.out.println("Driver is NULL - screenshot not captured");
+            System.out.println("Driver is NULL - Screenshot not captured");
             return null;
         }
 
@@ -43,5 +45,15 @@ public class ScreenshotUtil {
             e.printStackTrace();
             return null;
         }
+    }
+
+    @Attachment(value = "Failure Screenshot", type = "image/png")
+    public static byte[] attachScreenshot(WebDriver driver) {
+
+        if (driver == null) {
+            return new byte[0];
+        }
+
+        return ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
     }
 }
