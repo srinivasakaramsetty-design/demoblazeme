@@ -4,6 +4,7 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
+import hooks.Hooks;
 import utilities.ScreenshotUtil;
 
 import org.apache.logging.log4j.LogManager;
@@ -39,7 +40,10 @@ public class TestListener implements ITestListener {
         log.error("Test Failed : {}", result.getName());
         log.error("Reason : ", result.getThrowable());
 
-        String screenshot = ScreenshotUtil.captureScreenshot(result.getName());
+        String screenshot = ScreenshotUtil.captureScreenshot(
+                Hooks.driver,
+                result.getName()
+        );
 
         log.info("Screenshot saved at : {}", screenshot);
     }

@@ -1,12 +1,9 @@
 package hooks;
 
-import java.io.IOException;
 import java.time.Duration;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -35,16 +32,15 @@ public class Hooks {
 
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        
-     // Timeouts FIRST
-        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(config.getPageLoadTimeout()));
-        
-         driver.get(config.getUrl());
-         
-         wait = new WebDriverWait(driver,
-                 Duration.ofSeconds(config.getExplicitWait()));
-         
-        
+
+        driver.manage().timeouts().pageLoadTimeout(
+                Duration.ofSeconds(config.getPageLoadTimeout()));
+
+        driver.get(config.getUrl());
+
+        wait = new WebDriverWait(
+                driver,
+                Duration.ofSeconds(config.getExplicitWait()));
     }
 
     @After
@@ -52,9 +48,19 @@ public class Hooks {
 
         if (scenario.isFailed()) {
 
-            ScreenshotUtil.captureScreenshot(scenario.getName());
+            log.error("Scenario Failed: Taking Screenshot");
+
+            if (driver != null) {
+                ScreenshotUtil.captureScreenshot(driver, scenario.getName());
+            }
         }
 
-        driver.quit();
+        if (driver != null) {
+            driver.quit();
+            driver = null;
+            wait = null;
+        }
+
+        log.info("Test Execution Completed");
     }
 }

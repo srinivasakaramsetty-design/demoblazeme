@@ -7,82 +7,48 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import utilities.ActionUtils;
+
 public class LoginPage {
 
-	WebDriver driver;
-	WebDriverWait wait;
+    private ActionUtils utils;
+    private WebDriverWait wait;
 
-	public LoginPage(WebDriver driver, WebDriverWait wait) {
-		this.driver = driver;
-		this.wait = wait;
-		PageFactory.initElements(driver, this);
-	}
+    public LoginPage(WebDriver driver, WebDriverWait wait) {
+        PageFactory.initElements(driver, this);
+        this.wait = wait;
+        utils = new ActionUtils(driver, wait);
+    }
 
-	@FindBy(id = "login2")
-	private WebElement loginMenu;
+    @FindBy(id = "login2")
+    private WebElement loginMenu;
 
-	@FindBy(id = "loginusername")
-	private WebElement username;
+    @FindBy(id = "loginusername")
+    private WebElement username;
 
-	@FindBy(id = "loginpassword")
-	private WebElement password;
+    @FindBy(id = "loginpassword")
+    private WebElement password;
 
-	@FindBy(xpath = "//button[text()='Log in']")
-	private WebElement loginButton;
+    @FindBy(xpath = "//button[text()='Log in']")
+    private WebElement loginButton;
 
-	@FindBy(id = "logout2")
-	private WebElement logoutLink;
+    @FindBy(id = "logout2")
+    private WebElement logoutLink;
 
-	// 1. Click Login menu
-	public void clickLoginMenu() 
-	{
-		wait.until(ExpectedConditions.elementToBeClickable(loginMenu));
-		loginMenu.click();
-	}
+    public void login(String user, String pass) {
 
-	// 2. Enter username
-	public void enterUsername(String user) {
-		wait.until(ExpectedConditions.visibilityOf(username));
-		username.clear();
-		username.sendKeys(user);
-	}
+        utils.click(loginMenu);
 
-	// 3. Enter password
-	public void enterPassword(String pass) {
-		wait.until(ExpectedConditions.visibilityOf(password));
-		password.clear();
-		password.sendKeys(pass);
-	}
+        utils.type(username, user);
+        utils.type(password, pass);
 
-	// 4. Click login button
-	public void clickLoginButton() {
-		wait.until(ExpectedConditions.elementToBeClickable(loginButton));
-		loginButton.click();
-	}
+        utils.click(loginButton);
 
-	// 5. Full flow
-	public void login(String user, String pass) 
-	{
-		enterUsername(user);
-		enterPassword(pass);
-		clickLoginButton();
-		
-	}
+        // IMPORTANT FIX: wait until logout appears
+        wait.until(ExpectedConditions.visibilityOf(logoutLink));
+    }
 
-	
-
-	public void logout() 
-	{
-	    wait.until(ExpectedConditions.elementToBeClickable(logoutLink));
-	    logoutLink.click();
-	}
-	
-	
-	
-	public boolean isLogoutDisplayed() {
-	    wait.until(ExpectedConditions.visibilityOf(logoutLink));
-	    return logoutLink.isDisplayed();
-	}
-
-
+    public boolean isLogoutDisplayed() {
+        return logoutLink.isDisplayed();
+    }
 }

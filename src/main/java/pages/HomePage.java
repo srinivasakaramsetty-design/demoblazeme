@@ -1,105 +1,60 @@
 package pages;
 
-import java.time.Duration;
 import java.util.List;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import utilities.ActionUtils;
 
 public class HomePage {
 
     private WebDriver driver;
-    private WebDriverWait wait;
+    private ActionUtils utils;
 
-    private static final Logger log = LogManager.getLogger(HomePage.class);
-
-    // Locators
-    @FindBy(id = "nameofuser")
-    private WebElement welcomeUser;
-
-    @FindBy(css = ".hrefch")
-    private List<WebElement> products;
-
-    @FindBy(xpath = "//h5[contains(text(),'$')]")
-    private List<WebElement> productPrices;
-
-    // Constructor
-    public HomePage(WebDriver driver) {
+    public HomePage(WebDriver driver, WebDriverWait wait) {
         this.driver = driver;
-
-        // 🔥 Explicit Wait = 15 seconds (as requested)
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(15));
-
-        PageFactory.initElements(driver, this);
+        this.utils = new ActionUtils(driver, wait);
     }
 
-    // =========================
-    // Common Wait Method
-    // =========================
-    private void waitForElement(WebElement element)
-    {
-        wait.until(ExpectedConditions.visibilityOf(element));
-    }
+    // Locators (NO PageFactory)
+    private By welcomeUser = By.id("nameofuser");
+    private By products = By.cssSelector(".hrefch");
+    private By prices = By.cssSelector(".card-block h5");
 
-    // =========================
-    // Welcome Username
-    // =========================
+    // ===== Welcome Text =====
     public String getWelcomeUserText() {
 
-        waitForElement(welcomeUser);
+        WebElement el = driver.findElement(welcomeUser);
 
-        String text = welcomeUser.getText();
-        log.info("Welcome User: {}", text);
-
-        return text;
+        return utils.getText(el);
     }
 
-    // =========================
-    // Scroll to Products
-    // =========================
+    // ===== Scroll =====
     public void scrollToProducts() {
 
-        if (products.size() > 0) 
-        {
-            wait.until(ExpectedConditions.visibilityOf(products.get(0)));
+        List<WebElement> list = driver.findElements(products);
 
-            ((JavascriptExecutor) driver)
-                    .executeScript("arguments[0].scrollIntoView(true);", products.get(0));
-
-            log.info("Scrolled to first product");
+        if (!list.isEmpty()) {
+            utils.scrollIntoView(list.get(0));
         }
     }
 
-    // =========================
-    // Get First Product Name
-    // =========================
+    // ===== Product Name =====
     public String getFirstProductName() {
 
-        wait.until(ExpectedConditions.visibilityOfAllElements(products));
+        List<WebElement> list = driver.findElements(products);
 
-        String name = products.get(0).getText();
-        log.info("First Product Name: " + name);
-
-        return name;
+        return list.isEmpty() ? null : list.get(0).getText();
     }
 
-    // =========================
-    // Get First Product Price
-    // =========================
+    // ===== Product Price =====
     public String getFirstProductPrice() {
 
-        wait.until(ExpectedConditions.visibilityOfAllElements(productPrices));
+        List<WebElement> list = driver.findElements(prices);
 
-        String price = productPrices.get(0).getText();
-        log.info("First Product Price: " + price);
-
-        return price;
+        return list.isEmpty() ? null : list.get(0).getText();
     }
 }

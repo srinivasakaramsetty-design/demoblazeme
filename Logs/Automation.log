@@ -1391,3 +1391,1102 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 2026-07-05 20:05:26 [main] INFO  HomeSteps - Home Page Verified Successfully
 2026-07-05 20:05:26 [main] INFO  TestListener - Test Passed : runScenario
 2026-07-05 20:05:27 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 22 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:17:24 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-943955953\testng-customsuite.xml
+
+2026-07-06 10:17:24 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 10:17:24 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-07-06 10:17:25 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:17:25 [main] INFO  Hooks - ==================================
+2026-07-06 10:17:25 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:17:25 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:17:35 [main] INFO  LoginSteps - Initializing Login Page
+2026-07-06 10:17:35 [main] INFO  LoginSteps - Clicking Login Menu
+2026-07-06 10:17:37 [main] INFO  LoginSteps - Logging in with Username: srinugem123
+2026-07-06 10:17:38 [main] INFO  LoginSteps - Login Successful for: srinugem123
+2026-07-06 10:17:38 [main] INFO  LoginSteps - Logging in with Username: Srinu134
+2026-07-06 10:17:38 [main] INFO  LoginSteps - Login Successful for: Srinu134
+2026-07-06 10:17:40 [main] INFO  LoginSteps - Login Scenario Completed Successfully
+2026-07-06 10:17:41 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 10:17:41 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:17:41 [main] INFO  Hooks - ==================================
+2026-07-06 10:17:41 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:17:41 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:17:43 [main] INFO  LoginSteps - Initializing Login Page
+2026-07-06 10:17:43 [main] INFO  LoginSteps - Clicking Login Menu
+2026-07-06 10:17:45 [main] INFO  LoginSteps - Logging in with Username: srinugem123
+2026-07-06 10:17:46 [main] INFO  LoginSteps - Login Successful for: srinugem123
+2026-07-06 10:17:46 [main] INFO  LoginSteps - Logging in with Username: Srinu134
+2026-07-06 10:17:49 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:17:49 [main] ERROR TestListener - Reason : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=149.0.7827.197)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c379d6f0dba123f7dfffd38e48b24d45, clickElement {id=f.F3C97B496FD86198797F8F175EE1A48A.d.5BEEAE9CEC6EA2A9C559942F4F810C8F.e.104}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\SRINIV~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57934}, goog:processID: 10776, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57934/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c379d6f0dba123f7dfffd38e48b24d45)] -> xpath: //button[text()='Log in']]
+Session ID: c379d6f0dba123f7dfffd38e48b24d45
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.34.0.jar:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy42.click(Unknown Source) ~[?:?]
+	at utilities.ActionUtils.click(ActionUtils.java:30) ~[classes/:?]
+	at pages.LoginPage.clickLoginButton(LoginPage.java:54) ~[classes/:?]
+	at pages.LoginPage.login(LoginPage.java:60) ~[classes/:?]
+	at stepdefinitions.LoginSteps.user_logs_in_using_excel_data(LoginSteps.java:47) ~[test-classes/:?]
+	at ✽.User logs in using Excel data(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:14) ~[?:?]
+2026-07-06 10:17:49 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:17:49 [main] ERROR TestListener - Reason : 
+org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\SRINIV~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57934}, goog:processID: 10776, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57934/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:176) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:617) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:621) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:333) ~[selenium-remote-driver-4.34.0.jar:?]
+	at utilities.ScreenshotUtil.captureScreenshot(ScreenshotUtil.java:24) ~[classes/:?]
+	at listeners.TestListener.onTestFailure(TestListener.java:42) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2026-07-06 10:17:49 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 29 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:27:12 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-823003592\testng-customsuite.xml
+
+2026-07-06 10:27:12 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 10:27:12 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-07-06 10:27:13 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:27:13 [main] INFO  Hooks - ==================================
+2026-07-06 10:27:13 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:27:13 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:27:17 [main] INFO  LoginSteps - Initializing Login Page
+2026-07-06 10:27:17 [main] INFO  LoginSteps - Clicking Login Menu
+2026-07-06 10:27:19 [main] INFO  LoginSteps - Logging in with Username: srinugem123
+2026-07-06 10:27:19 [main] INFO  LoginSteps - Login action completed successfully
+2026-07-06 10:27:21 [main] INFO  LoginSteps - Login Scenario Completed Successfully
+2026-07-06 10:27:22 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 10:27:22 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:27:22 [main] INFO  Hooks - ==================================
+2026-07-06 10:27:22 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:27:22 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:27:25 [main] INFO  LoginSteps - Initializing Login Page
+2026-07-06 10:27:25 [main] INFO  LoginSteps - Clicking Login Menu
+2026-07-06 10:27:25 [main] INFO  LoginSteps - Logging in with Username: srinugem123
+2026-07-06 10:27:26 [main] INFO  LoginSteps - Login action completed successfully
+2026-07-06 10:27:26 [main] INFO  HomeSteps - Verifying Welcome Username
+2026-07-06 10:27:27 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:27:27 [main] ERROR TestListener - Reason : 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+	at utilities.ActionUtils.waitForVisibility(ActionUtils.java:19) ~[classes/:?]
+	at utilities.ActionUtils.getText(ActionUtils.java:48) ~[classes/:?]
+	at pages.HomePage.getWelcomeUserText(HomePage.java:49) ~[classes/:?]
+	at stepdefinitions.HomeSteps.user_should_see_welcome_message_with_username(HomeSteps.java:22) ~[test-classes/:?]
+	at ✽.User should see welcome message with username(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:15) ~[?:?]
+2026-07-06 10:27:27 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:27:27 [main] ERROR TestListener - Reason : 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "hooks.Hooks.driver" is null
+	at utilities.ScreenshotUtil.captureScreenshot(ScreenshotUtil.java:24) ~[classes/:?]
+	at listeners.TestListener.onTestFailure(TestListener.java:42) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2026-07-06 10:27:27 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:46:16 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse--1443683518\testng-customsuite.xml
+
+2026-07-06 10:46:17 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 10:46:17 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-07-06 10:46:17 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:46:18 [main] INFO  Hooks - ==================================
+2026-07-06 10:46:18 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:46:18 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:46:22 [main] INFO  LoginSteps - Launching DemoBlaze Application
+2026-07-06 10:46:22 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:46:22 [main] ERROR TestListener - Reason : 
+io.cucumber.testng.UndefinedStepException: The step 'User clicks on Login menu' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User clicks on Login menu")
+public void user_clicks_on_login_menu() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.User clicks on Login menu(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:6) ~[?:?]
+2026-07-06 10:46:22 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:46:22 [main] ERROR TestListener - Reason : 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "hooks.Hooks.driver" is null
+	at utilities.ScreenshotUtil.captureScreenshot(ScreenshotUtil.java:24) ~[classes/:?]
+	at listeners.TestListener.onTestFailure(TestListener.java:42) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2026-07-06 10:46:22 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 86 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 32 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:50:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-814775557\testng-customsuite.xml
+
+2026-07-06 10:50:40 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 10:50:40 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-07-06 10:50:41 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:50:42 [main] INFO  Hooks - ==================================
+2026-07-06 10:50:42 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:50:42 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:50:47 [main] INFO  LoginSteps - Launching DemoBlaze Application
+2026-07-06 10:50:47 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 10:50:47 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:53 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-07-06 10:57:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 10:57:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:57:54 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:57:54 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse--773484348\testng-customsuite.xml
+
+2026-07-06 10:57:54 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 10:57:54 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-07-06 10:57:54 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:57:55 [main] INFO  Hooks - ==================================
+2026-07-06 10:57:55 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:57:55 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:57:58 [main] INFO  LoginSteps - Launching DemoBlaze Application
+2026-07-06 10:57:58 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 10:57:58 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:57:58 [main] ERROR TestListener - Reason : 
+io.cucumber.testng.UndefinedStepException: The step 'User clicks on Login menu' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User clicks on Login menu")
+public void user_clicks_on_login_menu() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.User clicks on Login menu(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:6) ~[?:?]
+2026-07-06 10:57:58 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 10:57:58 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:57:58 [main] INFO  Hooks - ==================================
+2026-07-06 10:57:58 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:57:58 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:58:02 [main] INFO  LoginSteps - Launching DemoBlaze Application
+2026-07-06 10:58:02 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 10:58:03 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 10:58:03 [main] ERROR TestListener - Reason : 
+io.cucumber.testng.UndefinedStepException: The step 'User clicks on Login menu' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("User clicks on Login menu")
+public void user_clicks_on_login_menu() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.User clicks on Login menu(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:13) ~[?:?]
+2026-07-06 10:58:03 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 10:58:03 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 10:58:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7412a438: 182 ms
+2026-07-06 10:58:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6a32191e: 42 ms
+2026-07-06 10:58:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@208205ed: 18 ms
+2026-07-06 10:58:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@e29f4f6: 9 ms
+2026-07-06 10:58:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3cdc7b09: 20 ms
+2026-07-06 10:58:03 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7364eed1: 0 ms
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 10:59:52 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-1711409584\testng-customsuite.xml
+
+2026-07-06 10:59:52 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 10:59:52 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2026-07-06 10:59:53 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 10:59:53 [main] INFO  Hooks - ==================================
+2026-07-06 10:59:53 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 10:59:53 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 10:59:57 [main] INFO  LoginSteps - Launching DemoBlaze Application
+2026-07-06 10:59:59 [main] INFO  LoginSteps - Logging in with Username: srinugem123
+2026-07-06 10:59:59 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:00:00 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:00:00 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:00:00 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:00:00 [main] INFO  LoginSteps - Login action completed
+2026-07-06 11:00:03 [main] INFO  ActionUtils - Element displayed: true
+2026-07-06 11:00:03 [main] INFO  LoginSteps - Logout visibility status: true
+2026-07-06 11:00:03 [main] INFO  LoginSteps - Login Scenario Completed Successfully
+2026-07-06 11:00:04 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:00:04 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:00:04 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:00:04 [main] INFO  Hooks - ==================================
+2026-07-06 11:00:04 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:00:04 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:00:06 [main] INFO  LoginSteps - Launching DemoBlaze Application
+2026-07-06 11:00:06 [main] INFO  LoginSteps - Logging in with Username: srinugem123
+2026-07-06 11:00:07 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:00:08 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:00:08 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:00:08 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:00:08 [main] INFO  LoginSteps - Login action completed
+2026-07-06 11:00:08 [main] INFO  HomeSteps - Verifying Welcome Username
+2026-07-06 11:00:10 [main] INFO  ActionUtils - Text captured: Welcome srinugem123
+2026-07-06 11:00:10 [main] INFO  HomePage - Welcome User: Welcome srinugem123
+2026-07-06 11:00:10 [main] INFO  HomeSteps - Welcome Text : Welcome srinugem123
+2026-07-06 11:00:10 [main] INFO  HomeSteps - Welcome Username Verified Successfully
+2026-07-06 11:00:10 [main] INFO  HomeSteps - Verifying Product Details
+2026-07-06 11:00:10 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:00:11 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:00:11 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:00:11 [main] ERROR TestListener - Reason : 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "this.driver" is null
+	at utilities.ActionUtils.scrollIntoView(ActionUtils.java:90) ~[classes/:?]
+	at pages.HomePage.scrollToProducts(HomePage.java:69) ~[classes/:?]
+	at stepdefinitions.HomeSteps.user_should_see_product_list_displayed(HomeSteps.java:49) ~[test-classes/:?]
+	at ✽.User should see product list displayed(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:14) ~[?:?]
+2026-07-06 11:00:11 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:00:11 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:00:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@108b121f: 130 ms
+2026-07-06 11:00:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@40016ce1: 26 ms
+2026-07-06 11:00:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@e4ca109: 17 ms
+2026-07-06 11:00:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@57c6feea: 8 ms
+2026-07-06 11:00:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@c732e1c: 11 ms
+2026-07-06 11:00:11 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6aad919c: 0 ms
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:25:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse--1822121026\testng-customsuite.xml
+
+2026-07-06 11:25:41 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:25:41 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-07-06 11:25:41 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:25:42 [main] INFO  Hooks - ==================================
+2026-07-06 11:25:42 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:25:42 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:25:53 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:25:55 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:25:56 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:25:56 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:25:56 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:25:57 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:25:59 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:25:59 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:25:59 [main] ERROR TestListener - Reason : 
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.failNotEquals(Assert.java:1590) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.assertTrue(Assert.java:67) ~[testng-7.11.0.jar:7.11.0]
+	at stepdefinitions.LoginSteps.verifyLogin(LoginSteps.java:54) ~[test-classes/:?]
+	at ✽.User should be logged in successfully(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:7) ~[?:?]
+2026-07-06 11:25:59 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:25:59 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:25:59 [main] INFO  Hooks - ==================================
+2026-07-06 11:25:59 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:25:59 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:26:01 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:26:02 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:26:02 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:26:03 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:26:03 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:26:05 [main] INFO  ActionUtils - Text captured: Welcome srinugem123
+2026-07-06 11:26:06 [main] INFO  ActionUtils - Scrolled into element view
+2026-07-06 11:26:07 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:26:07 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:26:07 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:26:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@26ffd2c0: 92 ms
+2026-07-06 11:26:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4e2cdc51: 56 ms
+2026-07-06 11:26:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1231a1be: 33 ms
+2026-07-06 11:26:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5c5f0edc: 13 ms
+2026-07-06 11:26:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5f935d49: 10 ms
+2026-07-06 11:26:07 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3321291a: 0 ms
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:27:39 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-1065067766\testng-customsuite.xml
+
+2026-07-06 11:27:39 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:27:39 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-07-06 11:27:40 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:27:40 [main] INFO  Hooks - ==================================
+2026-07-06 11:27:40 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:27:40 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:27:44 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:27:46 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:27:47 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:27:47 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:27:47 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:27:49 [main] INFO  ActionUtils - Element displayed: true
+2026-07-06 11:27:50 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:27:50 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:27:50 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:27:50 [main] INFO  Hooks - ==================================
+2026-07-06 11:27:50 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:27:50 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:27:52 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:27:53 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:27:53 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:27:54 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:27:54 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:27:57 [main] INFO  ActionUtils - Text captured: Welcome srinugem123
+2026-07-06 11:27:57 [main] INFO  ActionUtils - Scrolled into element view
+2026-07-06 11:27:58 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:27:58 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:27:58 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:27:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6fc1a8f6: 119 ms
+2026-07-06 11:27:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@687a0e40: 4 ms
+2026-07-06 11:27:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@67a8bcbb: 21 ms
+2026-07-06 11:27:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2af9a5ef: 9 ms
+2026-07-06 11:27:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5df92089: 6 ms
+2026-07-06 11:27:58 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6f0c45f4: 0 ms
+2026-07-06 11:28:46 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\java\Demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-07-06 11:28:46 [main] INFO  Utils - [TestNG] Running:
+  F:\java\Demo\testng.xml
+
+2026-07-06 11:28:46 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:28:47 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:28:48 [main] INFO  Hooks - ==================================
+2026-07-06 11:28:48 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:28:48 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:28:52 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:28:53 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:28:54 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:28:54 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:28:55 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:28:56 [main] INFO  ActionUtils - Element displayed: true
+2026-07-06 11:28:57 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:28:57 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:28:57 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:28:57 [main] INFO  Hooks - ==================================
+2026-07-06 11:28:57 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:28:57 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:29:00 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:29:00 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:29:01 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:29:01 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:29:01 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:29:03 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:29:04 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:29:04 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:29:04 [main] ERROR TestListener - Reason : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=149.0.7827.197)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7bc9d18e2ba2cf36af1ace596fee9251, isElementDisplayed {id=f.4C4F9B7567B6C26BDBC6A62DF19973C0.d.703B87984E41AE7D9255240D2E954BD8.e.94}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\SRINIV~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58409}, goog:processID: 11860, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58409/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7bc9d18e2ba2cf36af1ace596fee9251)] -> id: nameofuser]
+Session ID: 7bc9d18e2ba2cf36af1ace596fee9251
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.isDisplayed(RemoteWebElement.java:282) ~[selenium-remote-driver-4.34.0.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor22.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy42.isDisplayed(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.34.0.jar:?]
+	at utilities.ActionUtils.waitForVisibility(ActionUtils.java:28) ~[classes/:?]
+	at utilities.ActionUtils.getText(ActionUtils.java:63) ~[classes/:?]
+	at pages.HomePage.getWelcomeUserText(HomePage.java:36) ~[classes/:?]
+	at stepdefinitions.HomeSteps.welcome(HomeSteps.java:28) ~[test-classes/:?]
+	at ✽.User should see welcome message with username(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:13) ~[?:?]
+2026-07-06 11:29:04 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:29:04 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:32:57 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:57 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-07-06 11:32:57 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:57 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:32:58 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse--1980359340\testng-customsuite.xml
+
+2026-07-06 11:32:58 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:32:58 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2026-07-06 11:32:59 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:32:59 [main] INFO  Hooks - ==================================
+2026-07-06 11:32:59 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:32:59 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:33:03 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:33:03 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:33:04 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:33:04 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:33:04 [main] ERROR TestListener - Reason : 
+java.lang.Error: Unresolved compilation problem: 
+	Unhandled exception type InterruptedException
+
+	at stepdefinitions.LoginSteps.loginExcel(LoginSteps.java:47) ~[test-classes/:?]
+	at ✽.User logs in using Excel data(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:6) ~[?:?]
+2026-07-06 11:33:04 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:33:04 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:33:04 [main] INFO  Hooks - ==================================
+2026-07-06 11:33:04 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:33:04 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:33:07 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:33:07 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:33:08 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:33:08 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:33:08 [main] ERROR TestListener - Reason : 
+java.lang.Error: Unresolved compilation problem: 
+	Unhandled exception type InterruptedException
+
+	at stepdefinitions.LoginSteps.loginExcel(LoginSteps.java:47) ~[test-classes/:?]
+	at ✽.User logs in using Excel data(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:12) ~[?:?]
+2026-07-06 11:33:08 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:33:08 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:33:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6d672bd4: 141 ms
+2026-07-06 11:33:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4aa2877c: 240 ms
+2026-07-06 11:33:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@70029d2d: 21 ms
+2026-07-06 11:33:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@71179b6f: 9 ms
+2026-07-06 11:33:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4ac8768e: 7 ms
+2026-07-06 11:33:08 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1e957e2f: 0 ms
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:34:45 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-1859235468\testng-customsuite.xml
+
+2026-07-06 11:34:45 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:34:45 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-07-06 11:34:46 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:34:46 [main] INFO  Hooks - ==================================
+2026-07-06 11:34:46 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:34:46 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:34:49 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:34:51 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:34:52 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:34:52 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:34:52 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:34:54 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:34:55 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:34:55 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:34:55 [main] ERROR TestListener - Reason : 
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.failNotEquals(Assert.java:1590) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.Assert.assertTrue(Assert.java:67) ~[testng-7.11.0.jar:7.11.0]
+	at stepdefinitions.LoginSteps.verifyLogin(LoginSteps.java:55) ~[test-classes/:?]
+	at ✽.User should be logged in successfully(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:7) ~[?:?]
+2026-07-06 11:34:55 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:34:55 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:34:55 [main] INFO  Hooks - ==================================
+2026-07-06 11:34:55 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:34:55 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:34:58 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:34:58 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:34:59 [main] INFO  ActionUtils - Entered text: srinugem123
+2026-07-06 11:34:59 [main] INFO  ActionUtils - Entered text: srinu123
+2026-07-06 11:35:00 [main] INFO  ActionUtils - Clicked element successfully
+2026-07-06 11:35:01 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:35:02 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:35:02 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:35:02 [main] ERROR TestListener - Reason : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=149.0.7827.197)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06551607e4a52c0ee543a4f67bc2b8f4, isElementDisplayed {id=f.79FB6AED2BFD095C7C3CEB65076CAB03.d.9C63874DFF37FEFDF7AE8A4996F5757B.e.99}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\SRINIV~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58515}, goog:processID: 12400, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58515/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (06551607e4a52c0ee543a4f67bc2b8f4)] -> id: nameofuser]
+Session ID: 06551607e4a52c0ee543a4f67bc2b8f4
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.isDisplayed(RemoteWebElement.java:282) ~[selenium-remote-driver-4.34.0.jar:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy42.isDisplayed(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.34.0.jar:?]
+	at utilities.ActionUtils.waitForVisibility(ActionUtils.java:28) ~[classes/:?]
+	at utilities.ActionUtils.getText(ActionUtils.java:63) ~[classes/:?]
+	at pages.HomePage.getWelcomeUserText(HomePage.java:37) ~[classes/:?]
+	at stepdefinitions.HomeSteps.welcome(HomeSteps.java:28) ~[test-classes/:?]
+	at ✽.User should see welcome message with username(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:13) ~[?:?]
+2026-07-06 11:35:02 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:35:02 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:35:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1d1bf7bf: 93 ms
+2026-07-06 11:35:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@790ac3e0: 24 ms
+2026-07-06 11:35:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@781c2497: 23 ms
+2026-07-06 11:35:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@49038f97: 14 ms
+2026-07-06 11:35:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4fe8f2ae: 12 ms
+2026-07-06 11:35:02 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@591be8aa: 0 ms
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:47:14 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-447445090\testng-customsuite.xml
+
+2026-07-06 11:47:15 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:47:15 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2026-07-06 11:47:15 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:47:16 [main] INFO  Hooks - ==================================
+2026-07-06 11:47:16 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:47:16 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:47:19 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:47:23 [main] INFO  LoginSteps - Login executed
+2026-07-06 11:47:25 [main] INFO  LoginSteps - Logout status: true
+2026-07-06 11:47:25 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:47:25 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:47:25 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:47:25 [main] INFO  Hooks - ==================================
+2026-07-06 11:47:25 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:47:25 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:47:28 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:47:30 [main] INFO  LoginSteps - Login executed
+2026-07-06 11:47:32 [main] ERROR Hooks - Scenario Failed: Taking Screenshot
+2026-07-06 11:47:33 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:47:33 [main] ERROR TestListener - Test Failed : runScenario
+2026-07-06 11:47:33 [main] ERROR TestListener - Reason : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=149.0.7827.197)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b68d39e4d901b907fa319131a35db49c, isElementDisplayed {id=f.32022916420DDD859876E290B7B439D7.d.E328BFA2660F59979BBA5A62212F320F.e.104}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\SRINIV~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58595}, goog:processID: 7700, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58595/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b68d39e4d901b907fa319131a35db49c)] -> id: nameofuser]
+Session ID: b68d39e4d901b907fa319131a35db49c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.isDisplayed(RemoteWebElement.java:282) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.34.0.jar:?]
+	at utilities.ActionUtils.waitForVisibility(ActionUtils.java:25) ~[classes/:?]
+	at utilities.ActionUtils.getText(ActionUtils.java:55) ~[classes/:?]
+	at pages.HomePage.getWelcomeUserText(HomePage.java:32) ~[classes/:?]
+	at stepdefinitions.HomeSteps.user_should_see_welcome_message_with_username(HomeSteps.java:28) ~[test-classes/:?]
+	at ✽.User should see welcome message with username(file:///F:/java/Demo/src/test/resources/features/LoginAndHome.feature:13) ~[?:?]
+2026-07-06 11:47:33 [main] INFO  TestListener - Screenshot saved at : null
+2026-07-06 11:47:33 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:47:33 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@33f4c769: 91 ms
+2026-07-06 11:47:33 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@78065fcd: 28 ms
+2026-07-06 11:47:33 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@524f5ea5: 30 ms
+2026-07-06 11:47:33 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a785fd5: 15 ms
+2026-07-06 11:47:33 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5cf0673d: 15 ms
+2026-07-06 11:47:33 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@40c76f5a: 1 ms
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-06 11:55:59 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\SRINIVASGARU\AppData\Local\Temp\testng-eclipse-468172269\testng-customsuite.xml
+
+2026-07-06 11:55:59 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:55:59 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-07-06 11:56:00 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:56:00 [main] INFO  Hooks - ==================================
+2026-07-06 11:56:00 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:56:00 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:56:04 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:56:09 [main] INFO  LoginSteps - Login executed
+2026-07-06 11:56:09 [main] INFO  LoginSteps - Logout status: true
+2026-07-06 11:56:09 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:56:09 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:56:09 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:56:09 [main] INFO  Hooks - ==================================
+2026-07-06 11:56:09 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:56:09 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:56:13 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:56:17 [main] INFO  LoginSteps - Login executed
+2026-07-06 11:56:17 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 11:56:17 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:56:17 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:56:17 [main] INFO  TestListener - ===== Test Execution Finished =====
+2026-07-06 11:56:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4c063cb9: 103 ms
+2026-07-06 11:56:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@18907af2: 2 ms
+2026-07-06 11:56:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2296127: 14 ms
+2026-07-06 11:56:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@59ec7020: 10 ms
+2026-07-06 11:56:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@52d96367: 15 ms
+2026-07-06 11:56:17 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5be51aa: 0 ms
+2026-07-06 11:56:56 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [F:\java\Demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-07-06 11:56:57 [main] INFO  Utils - [TestNG] Running:
+  F:\java\Demo\testng.xml
+
+2026-07-06 11:56:57 [main] INFO  TestListener - ===== Test Execution Started =====
+2026-07-06 11:56:58 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:56:58 [main] INFO  Hooks - ==================================
+2026-07-06 11:56:58 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:56:58 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:57:02 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:57:07 [main] INFO  LoginSteps - Login executed
+2026-07-06 11:57:07 [main] INFO  LoginSteps - Logout status: true
+2026-07-06 11:57:08 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:57:08 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:57:08 [main] INFO  TestListener - Test Started : runScenario
+2026-07-06 11:57:08 [main] INFO  Hooks - ==================================
+2026-07-06 11:57:08 [main] INFO  Hooks - Starting Test Execution
+2026-07-06 11:57:08 [main] INFO  Hooks - Launching Chrome Browser
+2026-07-06 11:57:10 [main] INFO  LoginSteps - Launching App
+2026-07-06 11:57:15 [main] INFO  LoginSteps - Login executed
+2026-07-06 11:57:16 [main] INFO  HomeSteps - Welcome text: Welcome srinugem123
+2026-07-06 11:57:16 [main] INFO  Hooks - Test Execution Completed
+2026-07-06 11:57:16 [main] INFO  TestListener - Test Passed : runScenario
+2026-07-06 11:57:16 [main] INFO  TestListener - ===== Test Execution Finished =====

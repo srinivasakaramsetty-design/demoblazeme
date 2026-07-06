@@ -2,6 +2,7 @@ package stepdefinitions;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.testng.Assert;
 
 import hooks.Hooks;
 import io.cucumber.java.en.Given;
@@ -9,56 +10,68 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pages.LoginPage;
 import utilities.ExcelUtil;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class LoginSteps {
 
     private static final Logger log = LogManager.getLogger(LoginSteps.class);
 
     private LoginPage login;
-    private ExcelUtil excel = new ExcelUtil();
+    private final ExcelUtil excel = new ExcelUtil();
+
+    private void init() {
+        if (login == null) {
+            login = new LoginPage(Hooks.driver, Hooks.wait);
+        }
+    }
 
     @Given("User launches the DemoBlaze application")
     public void launch() {
 
-        log.info("Initializing Login Page");
-        login = new LoginPage(Hooks.driver, Hooks.wait);
-    }
+        init();
 
-    @When("User clicks on Login menu")
-    public void click_login() {
+        log.info("Launching App");
 
-        log.info("Clicking Login Menu");
-        login.clickLoginMenu();
+        Assert.assertTrue(
+                Hooks.driver.getCurrentUrl().contains("demoblaze"),
+                "App not opened correctly"
+        );
     }
 
     @When("User logs in using Excel data")
-    public void user_logs_in_using_excel_data() {
+    public void loginExcel() {
+
+        init();
 
         Object[][] data = excel.getExcelData("Login");
 
-        for (Object[] row : data) {
+        String user = data[0][0].toString();
+        String pass = data[0][1].toString();
 
-            String username = row[0].toString();
-            String password = row[1].toString();
+        login.login(user, pass);
 
-            log.info("Logging in with Username: {}", username);
+        // 🔥 IMPORTANT FIX: wait until login completes
+        Hooks.wait.until(
+                ExpectedConditions.or(
+                        ExpectedConditions.visibilityOfElementLocated(
+                                org.openqa.selenium.By.id("logout2")
+                        ),
+                        ExpectedConditions.alertIsPresent()
+                )
+        );
 
-            // Login using Page Object method
-            login.login(username, password);
-
-            // Verify login
-           
-            log.info("Login Successful for: {}", username);
-
-            // Uncomment if your Excel contains multiple users
-            // login.logout();
-            // login.clickLoginMenu();
-        }
+        log.info("Login executed");
     }
 
     @Then("User should be logged in successfully")
-    public void success() {
+    public void verifyLogin() {
 
-        log.info("Login Scenario Completed Successfully");
+        init();
+
+        boolean status = login.isLogoutDisplayed();
+
+        log.info("Logout status: " + status);
+
+        Assert.assertTrue(status, "Login failed - Logout not visible");
     }
 }
