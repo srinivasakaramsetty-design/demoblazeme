@@ -23,7 +23,7 @@ public class PlaceOrderPage
 	private By purchaseBtn = By.xpath("//button[text()='Purchase']");
 	private By closeBtn = By.xpath("//button[text()='Close']");
 	private By confirmationMsg = By.xpath("//h2[contains(text(),'Thank you')]");
-	private By okButton = By.xpath("//button[text()='OK12']");
+	private By okButton = By.xpath("//button[text()='OK']");
 	
 
 
