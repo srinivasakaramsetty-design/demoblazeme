@@ -13,6 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
+import utilities.AllureLogoUtil;
 import utilities.ConfigReader;
 import utilities.ScreenshotUtil;
 
@@ -27,6 +28,12 @@ public class Hooks {
 
     @Before
     public void setUp() {
+    	
+    	 try {
+    	        AllureLogoUtil.attachLogo();
+    	    } catch (Exception e) {
+    	        e.printStackTrace();
+    	    }
 
         log.info("==================================");
         log.info("Starting Test Execution");

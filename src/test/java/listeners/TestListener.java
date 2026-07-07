@@ -3,10 +3,9 @@ package listeners;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import io.qameta.allure.Allure;
-import java.io.FileInputStream;
-import java.io.File;
+
 import hooks.Hooks;
+import io.qameta.allure.Allure;
 import utilities.ScreenshotUtil;
 
 import org.apache.logging.log4j.LogManager;
@@ -41,20 +40,25 @@ public class TestListener implements ITestListener {
 
         log.error("Test Failed : {}", result.getName());
 
-        String screenshot = ScreenshotUtil.captureScreenshot(
+        // Save screenshot in screenshots folder
+        ScreenshotUtil.captureScreenshot(
                 Hooks.driver,
-                result.getName()
-        );
+                result.getName());
 
-        try {
+        // Attach screenshot to Allure report
+        ScreenshotUtil.attachScreenshot(
+                Hooks.driver);
+
+        // Attach failure reason
+        if (result.getThrowable() != null) {
             Allure.addAttachment(
-                    "Failure Screenshot",
-                    new FileInputStream(new File(screenshot))
-            );
-        } catch (Exception e) {
-            e.printStackTrace();
+                    "Failure Reason",
+                    result.getThrowable().toString());
         }
+
+        log.info("Screenshot attached to Allure Report");
     }
+
     @Override
     public void onTestSkipped(ITestResult result) {
         log.warn("Test Skipped : {}", result.getName());

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Product Bug",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Automation Script Failure",
+    "matchedStatuses": ["broken"]
+  }
+]
